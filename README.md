@@ -1,6 +1,6 @@
 [![Rouxan's GitHub Banner](./assets/meeee.jpg)](https://www.instagram.com/rouxan.designed/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/rouxan/rouxan)]
+[![Visits Badge](https://badges.pufler.dev/visits/RP231013/RP231013)]
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/rouxan.designed)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/rouxan-a538a9214/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/RP231013)
