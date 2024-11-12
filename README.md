@@ -58,4 +58,4 @@ I believe in crafting meaningful user experiences that are both practical and el
 
 ## 🌱 What’s Next?
 
-With a vision for innovative design, I’m constantly exploring ways to push the limits of both technology and aesthetics. I’m excited to keep advancing in areas like IoT, ESP32, UXD, and Sheet Metal Design. Let’s connect and build something impactful together! 🚀
+With a vision for innovative design, I’m constantly exploring ways to push the limits of both technology and aesthetics. I’m excited to keep advancing in areas like IoT, ESP32, UXD, and Sheet Metal Design. Let’s connect, via my socials lsited above, and build something impactful together! 🚀
